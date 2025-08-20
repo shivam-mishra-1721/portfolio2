@@ -1,0 +1,127 @@
+[
+  {
+    "name": "DocOnTime",
+    "desc": "DocOnTime is a doctor appointment booking platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js).",
+    "image": "docontime",
+    "category": "mern",
+    "links": {
+      "view": "https://docontime.vercel.app/",
+      "code": "https://github.com/Aryan-788/DocOnTime"
+    }
+  },
+  {
+    "name": "CICD Pipeline Automation",
+    "desc": "Engineered a complete CI/CD pipeline to automate the build, test, and deployment process for React applications using Jenkins, GitHub, and Docker. ",
+    "image": "CICD",
+    "category": "devops",
+    "links": {
+      "view": "https://github.com/Aryan-788/todo-cicd-pipeline",
+      "code": "https://github.com/Aryan-788/todo-cicd-pipeline"
+    }
+  },
+  {
+    "name": "TwinCode",
+    "desc": "TwinCode is a web application that allows you to review your code with dual perspectives using AI. ",
+    "image": "twinCode",
+    "category": "web-dev",
+    "links": {
+      "view": "https://twincode.vercel.app/",
+      "code": "https://github.com/Aryan-788/TwinCode"
+    }
+  },
+  {
+    "name": "lpuKart - E-Commerce Platform",
+    "desc": "lpuKart is a modern e-commerce platform built with MERN Concept, offering a seamless shopping experience. ",
+    "image": "lpuKart",
+    "category": "mern",
+    "links": {
+      "view": "https://lpukart.vercel.app/",
+      "code": "https://github.com/Aryan-788/lpuKart-client"
+    }
+  },
+  {
+    "name": "QueryConnect: A Q&A Forum Platform",
+    "desc": "QueryConnect is a PHP-based web application designed to provide a platform for users to ask questions, provide answers, and engage in discussions across various categories.",
+    "image": "queryConnect",
+    "category": "web-dev",
+    "links": {
+      "view": "https://github.com/Aryan-788/QueryConnect",
+      "code": "https://github.com/Aryan-788/QueryConnect"
+    }
+  },
+  {
+    "name": "Focus-Mode",
+    "desc": "Focus Mode is a simple React application that helps you manage your work and break intervals using a timer.",
+    "image": "focusMode",
+    "category": "web-dev",
+    "links": {
+      "view": "https://focus-mode-by-aryan.netlify.app/",
+      "code": "https://github.com/Aryan-788/Focus-Mode"
+    }
+  },
+  {
+    "name": "BookVerse: Your All-In-One Library Hub",
+    "desc": "Your comprehensive solution for managing a library system efficiently and effectively. This project leverages Data Structures and Algorithms (DSA) concepts to provide a robust and scalable application.",
+    "image": "bookverse",
+    "category": "dsa",
+    "links": {
+      "view": "https://github.com/Aryan-788/BookVerse-Your-All-In-One-Library-Hub",
+      "code": "https://github.com/Aryan-788/BookVerse-Your-All-In-One-Library-Hub"
+    }
+  },
+  {
+    "name": "ChitChat : A RealTIme Chat Application",
+    "desc": "ChitChat is an innovative chat application built on Node.js, Express.js, and Socket.IO technologies, designed to facilitate real-time communication between users.",
+    "image": "chitChat",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Aryan-788/ChitChat-Real-Time-Chat-WebApp",
+      "code": "https://github.com/Aryan-788/ChitChat-Real-Time-Chat-WebApp"
+    }
+  },
+  {
+    "name": "RealTime Cricket Score Extension",
+    "desc": " This Chrome extension allows you to stay updated with live cricket scores and match statuses directly from your browser. No need to visit multiple websites or navigate through apps—get the latest scores at your fingertips.",
+    "image": "cricket-live-scores",
+    "category": "extension",
+    "links": {
+      "view": "https://github.com/Aryan-788/RealTime-Cricket-Score-Extension",
+      "code": "https://github.com/Aryan-788/RealTime-Cricket-Score-Extension"
+    }
+  },
+  {
+    "name": "Netflix-Clone",
+    "desc": "Experience the ultimate streaming platform with our Netflix clone website built using HTML and CSS.",
+    "image": "netflix-clone",
+    "category": "web-dev",
+    "links": {
+      "view": "https://deft-paletas-f0dca7.netlify.app/",
+      "code": "https://github.com/Aryan-788/NETFLIX-CLONE"
+    }
+  },
+  {
+    "name": "Temperature-Converter",
+    "desc": "This website allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It is a simple and easy-to-use tool that can be used by anyone.",
+    "image": "temperature-Converter",
+    "category": "web-dev",
+    "links": {
+      "view": "https://temperature-converter-by-aryan.netlify.app/",
+      "code": "https://github.com/Aryan-788/Temperature-Converter"
+    }
+  },
+  {
+    "name": "Amazon-clone",
+    "desc": "This is a clone of popular e-commmerce website Amazon. I have created it using HTML & CSS.",
+    "image": "amazon-clone",
+    "category": "web-dev",
+    "links": {
+      "view": "https://amazon-clone-by-aryan.netlify.app/",
+      "code": "https://github.com/Aryan-788/Amazon-Clone-Website"
+    }
+  }
+
+]
+
+
+
+
